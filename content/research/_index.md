@@ -1,7 +1,7 @@
 ---
 title: Research
 type: features
-view: 3
+view: 4
 banner:
     image: 'group.webp'
 sections:
